@@ -1,0 +1,14 @@
+.img-container {
+  height: 75vh;
+  background-image: url('../../assets/taco.jpeg');
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.cta {
+  margin-bottom: 10vh;
+  padding:  10px 15px;
+  border: 1px solid black;
+  cursor: pointer;
+}

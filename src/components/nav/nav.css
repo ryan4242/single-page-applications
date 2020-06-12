@@ -1,0 +1,20 @@
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid #000;
+  height: 10vh;
+}
+
+h1 {
+  font-weight: 400;
+  margin-left: 1vw;
+}
+
+.nav-container .link {
+  margin-right: 15vw;
+  padding: 2vh 1vw;
+  color: #fff;
+  background: #000;
+  text-decoration: none;
+}
