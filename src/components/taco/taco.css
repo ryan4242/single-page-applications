@@ -1,0 +1,12 @@
+.form-container {
+  width: 50vw;
+  margin: auto;
+}
+
+.img2 {
+  background-image: url('../../assets/taco-2.jpg');
+  height: 55vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
